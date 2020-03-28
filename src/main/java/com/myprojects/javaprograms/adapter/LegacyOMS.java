@@ -13,5 +13,6 @@ public class LegacyOMS {
 
     public void makePayment(Payment paymentXml) {
         paymentXml.pay();
+
     }
 }

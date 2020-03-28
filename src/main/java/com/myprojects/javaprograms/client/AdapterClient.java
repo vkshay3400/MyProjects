@@ -20,5 +20,6 @@ public class AdapterClient {
         oms.makePayment(new Payment("CREDIT", 10.00));
         oms.makePayment(new Payment("DEBIT", 10.00));
         System.out.println("--------------");
+
     }
 }
