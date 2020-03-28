@@ -1,4 +1,4 @@
-package com.myprojects.javaprograms;
+package com.myprojects.javaprograms.myprograms;
 
 import java.util.Scanner;
 
