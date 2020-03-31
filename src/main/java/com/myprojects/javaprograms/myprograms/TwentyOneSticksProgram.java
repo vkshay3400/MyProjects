@@ -37,7 +37,7 @@ public class TwentyOneSticksProgram {
                         System.out.println("You have won");
                 }
             } else {
-                if ((no_of_sticks ) % 2 == 0 || (no_of_sticks - 1) == 0)
+                if ((no_of_sticks) % 2 == 0 || (no_of_sticks - 1) == 0)
                     input_num = 1;
                 else
                     input_num = 2;
@@ -63,4 +63,3 @@ public class TwentyOneSticksProgram {
         }
     }
 }
-
