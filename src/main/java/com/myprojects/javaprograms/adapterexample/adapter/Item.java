@@ -1,4 +1,4 @@
-package com.myprojects.javaprograms.newadapter;
+package com.myprojects.javaprograms.adapterexample.adapter;
 
 public class Item {
     private String name;

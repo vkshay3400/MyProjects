@@ -1,4 +1,4 @@
-package com.myprojects.javaprograms.adapter;
+package com.myprojects.javaprograms.adapterexample.adapter;
 
 import java.util.ArrayList;
 import java.util.List;

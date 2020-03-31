@@ -1,4 +1,4 @@
-package com.myprojects.javaprograms.myprograms;
+package com.myprojects.javaprograms.twentyonestick_program;
 
 import java.util.Scanner;
 
